@@ -1,0 +1,4677 @@
+﻿{
+    "teamInfo": [
+        {
+            "availableWeapons": [
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": ".357 CONDOR"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "76 EAGLE"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "AMMO BAG"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "AUTOMATICO"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "AUTOMATICO AKIMBO"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "BUNDLE O' BUSS"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "C4"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "DAGGER"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "FRAG"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "GREASER"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "M1 GARRET"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "MEDIC BAG"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "PATRIOT"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "PATRIOT GL"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "PATRIOT TAC"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "QUICKSILVER"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "RECON LRR"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "RK-44"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "SABRE"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "SCALPEL"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "SIGNAL DMR"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "S-IND7"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "S-IND7 [SUP]"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "SLAM-R"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "SL-DEFENDER"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "SMOKE GRENADE"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "SPEARHEAD"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "SQUAD LEADER KIT"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "THUMPER"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "WRENCH"
+                },
+                {
+                    "sourceDirectory": "3455955387",
+                    "sourceWorkshopId": 3455955387,
+                    "name": "Defibrillator"
+                },
+                {
+                    "sourceDirectory": "1431630627",
+                    "sourceWorkshopId": 1431630627,
+                    "name": "AMMO/MED BOX"
+                },
+                {
+                    "sourceDirectory": "2214668496",
+                    "sourceWorkshopId": 2214668496,
+                    "name": "L86A2 LSW"
+                },
+                {
+                    "sourceDirectory": "2214668496",
+                    "sourceWorkshopId": 2214668496,
+                    "name": "L86A2 LSW SUSAT [4x]"
+                },
+                {
+                    "sourceDirectory": "2214668496",
+                    "sourceWorkshopId": 2214668496,
+                    "name": "M249 SAW"
+                },
+                {
+                    "sourceDirectory": "2214668496",
+                    "sourceWorkshopId": 2214668496,
+                    "name": "MG3 [Armor Piercing Tracer Rounds]"
+                },
+                {
+                    "sourceDirectory": "2214668496",
+                    "sourceWorkshopId": 2214668496,
+                    "name": "MG36"
+                },
+                {
+                    "sourceDirectory": "2214668496",
+                    "sourceWorkshopId": 2214668496,
+                    "name": "MG36 ACOG [4x]"
+                },
+                {
+                    "sourceDirectory": "2214668496",
+                    "sourceWorkshopId": 2214668496,
+                    "name": "MG36 Micro [RDS]"
+                },
+                {
+                    "sourceDirectory": "2214668496",
+                    "sourceWorkshopId": 2214668496,
+                    "name": "PKM"
+                },
+                {
+                    "sourceDirectory": "2214668496",
+                    "sourceWorkshopId": 2214668496,
+                    "name": "RPK"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "ACE 23"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "ACE 52 CQB"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "AK-74M"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "AKM"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "AKM Kobra [RDS]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "AKS-74u"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "AKS-74u PBS [Suppressor]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "AN-94 "
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "AN-94 Hyperburst"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "ASh-12.7"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "ASh-12.7 Suppressed"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "AUG A3"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "AUG A3 EOTech [Holo]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "AUG A3 JGM [4x]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "Bulldog SRSS"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "Bulldog SRSS Ballistic [8x]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "Bulldog SRSS EOTech [Holo]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "Bulldog SRSS Fisher [Suppressor]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "Bulldog SRSS Fisher Ballistic [Suppressor + 8x]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "Bulldog SRSS Fisher EOTech [Holo + 8x]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "DT MDR"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "DT MDR Aimpoint [RDS]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "DT MDR Aimpoint Fisher [RDS + Suppressor]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "DT MDR Fisher [Suppressor]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "DT MDR SU230 [4x]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "DT MDR SU230 Fisher [4x + Suppressor]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "F2000"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "F2000 Scoped [x1.6]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "Felin FAMAS"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "Felin FAMAS Coyote [RDS]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "Felin FAMAS Customized"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "FN FAL"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "FN FAL Kobra [RDS]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "FN FAL Kobra Surefire [4x + Suppressor]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "FN FAL Prisma [4x]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "FN FAL Prisma Surefire [4x + Suppressor]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "FN FAL Surefire [Suppressor]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "G36C"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "G36C Fisher [Suppressor]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "G36K HP Ammo"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "Galil ARM"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "Galil ARM Surefire [Suppressor]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "Groza-1 "
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "Groza-1 PBS-4 [Suppressor]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "HK443 Quad-Stacked Mags"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "HK-51"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "HK-51 Prisma [4x]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "HK-51 SRS02 [GDS]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "Honey Badger "
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "L82A2 EOTech [Holo]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "L85A2"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "M16A3"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "M16A3 .458 SOCOM"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "M16A3 EOTech [Holo]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "M4A1 Flip Up Sights"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "MCX"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "MK-18 CQBR"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "MK-18 CQBR ACOG [4x]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "MK-18 CQBR EOTech [Holo]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "MTAR-21"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "MTAR-21 ACOG [4x]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "MTAR-21 EOTech [Holo]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "PO416"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "PO416 EOTech [Holo]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "PO416 EOTech Fisher [Holo + Suppressor]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "PO416 Fisher [Suppressor]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "PO416 SU230 [4x]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "PO416 SU230 Fisher [4x + Suppressor]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "QBZ-90 Fisher [Suppressor]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "QBZ-95"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "RO933"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "RO933 Coyote [RDS]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "SA-58 OSW"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "SA-58 OSW EOTech [Holo]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "SCAR-17"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "SCAR-17 Fisher [Suppressor]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "SCAR-17 Fisher SRS02 [Suppressor + GDS]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "SCAR-17 SRS02 [GDS]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "SG510"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "SG553"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "SG553 Prisma [4x]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "SG553 RX01 [YTS]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "StG-44"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "VHS-2"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "VHS-2 Coyote [RDS]"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "870 MCS Dragon's Breath"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "KSG-12 Buckshot"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "KSG-12 Dart"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "KSG-12 Dragon's Breath"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "KSG-12 Frag"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "KSG-12 Slug"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "M1014 Buckshot"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "M1014 Dragon's Breath"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "M1014 Flechette"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "M1014 Frag"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "M1014 Slug"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "M1887 Buckshot"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "M1887 Dart"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "M1887 Dragonsbreath"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "M1887 Frag"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "M1887 Hardcast Slug"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "M1897 Buckshot"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "M1897 Dart"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "M1897 Dragon's Breath"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "M1897 Frag"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "M1897 Hardcast Slug"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "M26 MASS Buckshot"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "M26 MASS Dragon's Breath"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "M26 MASS Flechette"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "M26 MASS Frag"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "M26 MASS Frag "
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "M26 MASS Slug"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "R870 MCS Buckshot"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "R870 MCS Flechette"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "R870 MCS Frag"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "R870 MCS Slug"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "Saiga 12k Buckshot"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "Saiga 12k Dragon's Breath"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "Saiga 12k Flechette"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "Saiga 12k Frag"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "Saiga 12k Slug"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "SBS-12 Buckshot"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "SBS-12 Dragon's Breath"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "SBS-12 Flechette"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "SBS-12 Frag"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "SBS-12 Slug"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "TOZ-34 Buckshot"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "TOZ-34 Dart"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "TOZ-34 Dragon's Breath"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "TOZ-34 Frag"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "TOZ-34 Slug"
+                },
+                {
+                    "sourceDirectory": "2214681896",
+                    "sourceWorkshopId": 2214681896,
+                    "name": "CZ-75"
+                },
+                {
+                    "sourceDirectory": "2214681896",
+                    "sourceWorkshopId": 2214681896,
+                    "name": "CZ-75 Automatic"
+                },
+                {
+                    "sourceDirectory": "2214681896",
+                    "sourceWorkshopId": 2214681896,
+                    "name": "DEagle .50 w/ Ballistic Shield"
+                },
+                {
+                    "sourceDirectory": "2214681896",
+                    "sourceWorkshopId": 2214681896,
+                    "name": "Desert Eagle .50"
+                },
+                {
+                    "sourceDirectory": "2214686112",
+                    "sourceWorkshopId": 2214686112,
+                    "name": "Dual Wield VZ. 61 Scorpion"
+                },
+                {
+                    "sourceDirectory": "2214686112",
+                    "sourceWorkshopId": 2214686112,
+                    "name": "FMG9"
+                },
+                {
+                    "sourceDirectory": "2214686112",
+                    "sourceWorkshopId": 2214686112,
+                    "name": "FMG-9"
+                },
+                {
+                    "sourceDirectory": "2214686112",
+                    "sourceWorkshopId": 2214686112,
+                    "name": "FMG9 Osprey [Suppressor]"
+                },
+                {
+                    "sourceDirectory": "2214681896",
+                    "sourceWorkshopId": 2214681896,
+                    "name": "FMG9 w/ Ballistic Shield"
+                },
+                {
+                    "sourceDirectory": "2214681896",
+                    "sourceWorkshopId": 2214681896,
+                    "name": "FN57"
+                },
+                {
+                    "sourceDirectory": "2214681896",
+                    "sourceWorkshopId": 2214681896,
+                    "name": "G17"
+                },
+                {
+                    "sourceDirectory": "2214681896",
+                    "sourceWorkshopId": 2214681896,
+                    "name": "G17 w/ Ballistic Shield"
+                },
+                {
+                    "sourceDirectory": "2214681896",
+                    "sourceWorkshopId": 2214681896,
+                    "name": "G18C"
+                },
+                {
+                    "sourceDirectory": "2214681896",
+                    "sourceWorkshopId": 2214681896,
+                    "name": "G34 w/ Stock"
+                },
+                {
+                    "sourceDirectory": "2214681896",
+                    "sourceWorkshopId": 2214681896,
+                    "name": "HK-45"
+                },
+                {
+                    "sourceDirectory": "2214681896",
+                    "sourceWorkshopId": 2214681896,
+                    "name": "HK-45 Osprey [Suppressor]"
+                },
+                {
+                    "sourceDirectory": "2214681896",
+                    "sourceWorkshopId": 2214681896,
+                    "name": "Illrod"
+                },
+                {
+                    "sourceDirectory": "2214681896",
+                    "sourceWorkshopId": 2214681896,
+                    "name": "Judge Buckshot"
+                },
+                {
+                    "sourceDirectory": "2214681896",
+                    "sourceWorkshopId": 2214681896,
+                    "name": "Judge Dart"
+                },
+                {
+                    "sourceDirectory": "2214681896",
+                    "sourceWorkshopId": 2214681896,
+                    "name": "Judge Dragon's Breath"
+                },
+                {
+                    "sourceDirectory": "2214681896",
+                    "sourceWorkshopId": 2214681896,
+                    "name": "Judge Frag"
+                },
+                {
+                    "sourceDirectory": "2214681896",
+                    "sourceWorkshopId": 2214681896,
+                    "name": "Judge Slug"
+                },
+                {
+                    "sourceDirectory": "2214686112",
+                    "sourceWorkshopId": 2214686112,
+                    "name": "M1928 Thompson"
+                },
+                {
+                    "sourceDirectory": "2214681896",
+                    "sourceWorkshopId": 2214681896,
+                    "name": "M1951"
+                },
+                {
+                    "sourceDirectory": "2214686112",
+                    "sourceWorkshopId": 2214686112,
+                    "name": "M1A1P Carbine"
+                },
+                {
+                    "sourceDirectory": "2214681896",
+                    "sourceWorkshopId": 2214681896,
+                    "name": "M93 Raffica"
+                },
+                {
+                    "sourceDirectory": "2214681896",
+                    "sourceWorkshopId": 2214681896,
+                    "name": "M9A1"
+                },
+                {
+                    "sourceDirectory": "2214681896",
+                    "sourceWorkshopId": 2214681896,
+                    "name": "M9A1 w/ Ballistic Shield"
+                },
+                {
+                    "sourceDirectory": "2214686112",
+                    "sourceWorkshopId": 2214686112,
+                    "name": "MAC-11"
+                },
+                {
+                    "sourceDirectory": "2214686112",
+                    "sourceWorkshopId": 2214686112,
+                    "name": "MAC-11 Monster [Suppressor]"
+                },
+                {
+                    "sourceDirectory": "2214681896",
+                    "sourceWorkshopId": 2214681896,
+                    "name": "Makarov PMM"
+                },
+                {
+                    "sourceDirectory": "2214686112",
+                    "sourceWorkshopId": 2214686112,
+                    "name": "MP18"
+                },
+                {
+                    "sourceDirectory": "2214686112",
+                    "sourceWorkshopId": 2214686112,
+                    "name": "MP41"
+                },
+                {
+                    "sourceDirectory": "2214681896",
+                    "sourceWorkshopId": 2214681896,
+                    "name": "MP412 REX"
+                },
+                {
+                    "sourceDirectory": "2214681896",
+                    "sourceWorkshopId": 2214681896,
+                    "name": "MP443"
+                },
+                {
+                    "sourceDirectory": "2214686112",
+                    "sourceWorkshopId": 2214686112,
+                    "name": "MP5A5"
+                },
+                {
+                    "sourceDirectory": "2214686112",
+                    "sourceWorkshopId": 2214686112,
+                    "name": "MP5K"
+                },
+                {
+                    "sourceDirectory": "2214686112",
+                    "sourceWorkshopId": 2214686112,
+                    "name": "MP5SD"
+                },
+                {
+                    "sourceDirectory": "2214686112",
+                    "sourceWorkshopId": 2214686112,
+                    "name": "MP7"
+                },
+                {
+                    "sourceDirectory": "2214686112",
+                    "sourceWorkshopId": 2214686112,
+                    "name": "MP7 ACOG [4x]"
+                },
+                {
+                    "sourceDirectory": "2214686112",
+                    "sourceWorkshopId": 2214686112,
+                    "name": "MP7 EOTech [Holo]"
+                },
+                {
+                    "sourceDirectory": "2214686112",
+                    "sourceWorkshopId": 2214686112,
+                    "name": "MPX"
+                },
+                {
+                    "sourceDirectory": "2214686112",
+                    "sourceWorkshopId": 2214686112,
+                    "name": "MPX Osprey [Suppressor]"
+                },
+                {
+                    "sourceDirectory": "2214681896",
+                    "sourceWorkshopId": 2214681896,
+                    "name": "P226"
+                },
+                {
+                    "sourceDirectory": "2214686112",
+                    "sourceWorkshopId": 2214686112,
+                    "name": "P90"
+                },
+                {
+                    "sourceDirectory": "2214686112",
+                    "sourceWorkshopId": 2214686112,
+                    "name": "P90 Surefire [Suppressor]"
+                },
+                {
+                    "sourceDirectory": "2214686112",
+                    "sourceWorkshopId": 2214686112,
+                    "name": "P90C Red Dot"
+                },
+                {
+                    "sourceDirectory": "2214681896",
+                    "sourceWorkshopId": 2214681896,
+                    "name": "QSZ-92"
+                },
+                {
+                    "sourceDirectory": "2214681896",
+                    "sourceWorkshopId": 2214681896,
+                    "name": "S&W .40 Pro"
+                },
+                {
+                    "sourceDirectory": "2214686112",
+                    "sourceWorkshopId": 2214686112,
+                    "name": "SMG-45 HP Ammo"
+                },
+                {
+                    "sourceDirectory": "2214681896",
+                    "sourceWorkshopId": 2214681896,
+                    "name": "SW1911"
+                },
+                {
+                    "sourceDirectory": "2214681896",
+                    "sourceWorkshopId": 2214681896,
+                    "name": "SW40P w/ Ballistic Shield"
+                },
+                {
+                    "sourceDirectory": "2214681896",
+                    "sourceWorkshopId": 2214681896,
+                    "name": "Taurus .44"
+                },
+                {
+                    "sourceDirectory": "2214681896",
+                    "sourceWorkshopId": 2214681896,
+                    "name": "Tec-9"
+                },
+                {
+                    "sourceDirectory": "2214681896",
+                    "sourceWorkshopId": 2214681896,
+                    "name": "Tec-9 Excuse me what the fuck"
+                },
+                {
+                    "sourceDirectory": "2214681896",
+                    "sourceWorkshopId": 2214681896,
+                    "name": "Tec-9 Monster [Suppressor]"
+                },
+                {
+                    "sourceDirectory": "2214686112",
+                    "sourceWorkshopId": 2214686112,
+                    "name": "UMP-45"
+                },
+                {
+                    "sourceDirectory": "2214686112",
+                    "sourceWorkshopId": 2214686112,
+                    "name": "UMP-45 "
+                },
+                {
+                    "sourceDirectory": "2214686112",
+                    "sourceWorkshopId": 2214686112,
+                    "name": "UMP-45 EOTech [Holo]"
+                },
+                {
+                    "sourceDirectory": "2214686112",
+                    "sourceWorkshopId": 2214686112,
+                    "name": "UMP-45 Osprey [Suppressor]"
+                },
+                {
+                    "sourceDirectory": "2214686112",
+                    "sourceWorkshopId": 2214686112,
+                    "name": "UMP-45 Suppressor [Osprey]"
+                },
+                {
+                    "sourceDirectory": "2214686112",
+                    "sourceWorkshopId": 2214686112,
+                    "name": "UZI"
+                },
+                {
+                    "sourceDirectory": "2214686112",
+                    "sourceWorkshopId": 2214686112,
+                    "name": "Uzi .41 AE Extended"
+                },
+                {
+                    "sourceDirectory": "2214686112",
+                    "sourceWorkshopId": 2214686112,
+                    "name": "Uzi Marksman"
+                },
+                {
+                    "sourceDirectory": "2214686112",
+                    "sourceWorkshopId": 2214686112,
+                    "name": "Uzi MK9K [Suppressor]"
+                },
+                {
+                    "sourceDirectory": "2214686112",
+                    "sourceWorkshopId": 2214686112,
+                    "name": "UZI RMR [YTS]"
+                },
+                {
+                    "sourceDirectory": "2214686112",
+                    "sourceWorkshopId": 2214686112,
+                    "name": "Vector K10"
+                },
+                {
+                    "sourceDirectory": "2214686112",
+                    "sourceWorkshopId": 2214686112,
+                    "name": "Vector K10 Coyote [RDS]"
+                },
+                {
+                    "sourceDirectory": "2214686112",
+                    "sourceWorkshopId": 2214686112,
+                    "name": "Vector K10 Coyote Osprey [RDS + Suppressor]"
+                },
+                {
+                    "sourceDirectory": "2214686112",
+                    "sourceWorkshopId": 2214686112,
+                    "name": "Vector K10 Customized"
+                },
+                {
+                    "sourceDirectory": "2214686112",
+                    "sourceWorkshopId": 2214686112,
+                    "name": "Vector K10 Osprey [Suppressor]"
+                },
+                {
+                    "sourceDirectory": "2214686112",
+                    "sourceWorkshopId": 2214686112,
+                    "name": "Vector K10 Tactical"
+                },
+                {
+                    "sourceDirectory": "2214681896",
+                    "sourceWorkshopId": 2214681896,
+                    "name": "Welrod"
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": ".300 Knockout"
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": ".300 Knockout SU230 [4x]"
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": "ACE 53"
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": "AWM "
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": "AWM Hunter [8x]"
+                },
+                {
+                    "sourceDirectory": "2214693494",
+                    "sourceWorkshopId": 2214693494,
+                    "name": "Bunkerfaust 3R1"
+                },
+                {
+                    "sourceDirectory": "2214693494",
+                    "sourceWorkshopId": 2214693494,
+                    "name": "FGM-148 Javelin"
+                },
+                {
+                    "sourceDirectory": "2214693494",
+                    "sourceWorkshopId": 2214693494,
+                    "name": "FGM-172 SRAW"
+                },
+                {
+                    "sourceDirectory": "2214693494",
+                    "sourceWorkshopId": 2214693494,
+                    "name": "FIM-92 Stinger MANPADS"
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": "JNG-90"
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": "JNG-90 Ballistic [8x]"
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": "L1A1 SLR SU230 [4x]"
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": "M1 Garand"
+                },
+                {
+                    "sourceDirectory": "2214693494",
+                    "sourceWorkshopId": 2214693494,
+                    "name": "M136 AT4 ER"
+                },
+                {
+                    "sourceDirectory": "2214693494",
+                    "sourceWorkshopId": 2214693494,
+                    "name": "M136 AT4 HE Dual Charge"
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": "M200 Intervention"
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": "M200 Intervention Ballistic [8x]"
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": "M200 Intervention Surefire [Suppressor]"
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": "M200 Intervention Surefire Ballistic [Suppressor + 8x]"
+                },
+                {
+                    "sourceDirectory": "2214693494",
+                    "sourceWorkshopId": 2214693494,
+                    "name": "M3 MAAWS Flechette"
+                },
+                {
+                    "sourceDirectory": "2214693494",
+                    "sourceWorkshopId": 2214693494,
+                    "name": "M3 MAAWS High Explosive Anti-Tank"
+                },
+                {
+                    "sourceDirectory": "2214693494",
+                    "sourceWorkshopId": 2214693494,
+                    "name": "M3 MAAWS High Explosive Dual Purpose"
+                },
+                {
+                    "sourceDirectory": "2214693494",
+                    "sourceWorkshopId": 2214693494,
+                    "name": "M32 MGL Flechette"
+                },
+                {
+                    "sourceDirectory": "2214693494",
+                    "sourceWorkshopId": 2214693494,
+                    "name": "M32 MGL High Explosive"
+                },
+                {
+                    "sourceDirectory": "2214693494",
+                    "sourceWorkshopId": 2214693494,
+                    "name": "M32 MGL LVG"
+                },
+                {
+                    "sourceDirectory": "2214693494",
+                    "sourceWorkshopId": 2214693494,
+                    "name": "M32 MGL Slug"
+                },
+                {
+                    "sourceDirectory": "2214693494",
+                    "sourceWorkshopId": 2214693494,
+                    "name": "M320 40mm Slug"
+                },
+                {
+                    "sourceDirectory": "2214693494",
+                    "sourceWorkshopId": 2214693494,
+                    "name": "M320 Buckshot"
+                },
+                {
+                    "sourceDirectory": "2214693494",
+                    "sourceWorkshopId": 2214693494,
+                    "name": "M320 High Explosive"
+                },
+                {
+                    "sourceDirectory": "2214693494",
+                    "sourceWorkshopId": 2214693494,
+                    "name": "M320 Incendiary Field"
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": "M82A1 Ballistic [8x]"
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": "M82A1 CQ"
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": "MK12 SPR Ballistic [8x]"
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": "MK-14 EBR"
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": "MK-14 EBR Ballistic [8x]"
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": "MK-14 EBR Ballistic Fisher [8x + Suppressor]"
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": "MK-14 EBR Fisher [Suppressor]"
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": "MK-14 EBR SU230 [6x]"
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": "MK-14 EBR SU230 Fisher [6x + Fisher]"
+                },
+                {
+                    "sourceDirectory": "2214693494",
+                    "sourceWorkshopId": 2214693494,
+                    "name": "MK153 SMAW HEAT"
+                },
+                {
+                    "sourceDirectory": "2214693494",
+                    "sourceWorkshopId": 2214693494,
+                    "name": "Mk153 SMAW Thermobaric"
+                },
+                {
+                    "sourceDirectory": "2214693494",
+                    "sourceWorkshopId": 2214693494,
+                    "name": "Panzerfaust 3R1"
+                },
+                {
+                    "sourceDirectory": "2214693494",
+                    "sourceWorkshopId": 2214693494,
+                    "name": "Panzerfaust 3R1 Tandem"
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": "PGM Ultima Ratio Hecate II"
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": "PTR-91"
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": "PTR-91 Prisma [4x]"
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": "QBU-88"
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": "QBU-88 Ballistic [8x]"
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": "Remington 700 LTR"
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": "Remington 700 LTR Fisher [Suppressor]"
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": "Remington 700 LTR FLIR [4x Thermal]"
+                },
+                {
+                    "sourceDirectory": "2214693494",
+                    "sourceWorkshopId": 2214693494,
+                    "name": "RPG-7"
+                },
+                {
+                    "sourceDirectory": "2214693494",
+                    "sourceWorkshopId": 2214693494,
+                    "name": "RPG-7 105mm HEAT Tandem"
+                },
+                {
+                    "sourceDirectory": "2214693494",
+                    "sourceWorkshopId": 2214693494,
+                    "name": "RPG-7 105mm Thermobaric"
+                },
+                {
+                    "sourceDirectory": "2214693494",
+                    "sourceWorkshopId": 2214693494,
+                    "name": "RPG-7 40mm Fragmentation"
+                },
+                {
+                    "sourceDirectory": "2214693494",
+                    "sourceWorkshopId": 2214693494,
+                    "name": "SA-18 Igla AA"
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": "SCAR-17 SV Ballistic [8x]"
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": "SCAR-17 SV Ballistic Fisher [8x + Suppressor]"
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": "Scout Elite"
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": "Scout Elite Ballistic [8x]"
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": "Scout Elite Ballistic Fisher [8x + Suppressor]"
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": "Scout Elite Fisher [Suppressor]"
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": "SR-25 ECC"
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": "SR-25 ECC Hunter [8x]"
+                },
+                {
+                    "sourceDirectory": "2214693494",
+                    "sourceWorkshopId": 2214693494,
+                    "name": "Starstreak HVM-II"
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": "XM109 25x59mm HE"
+                },
+                {
+                    "sourceDirectory": "2214693494",
+                    "sourceWorkshopId": 2214693494,
+                    "name": "XM25 [Airburst]"
+                },
+                {
+                    "sourceDirectory": "2214693494",
+                    "sourceWorkshopId": 2214693494,
+                    "name": "XM25 [Dart]"
+                },
+                {
+                    "sourceDirectory": "2214693494",
+                    "sourceWorkshopId": 2214693494,
+                    "name": "XM25 [HEAT]"
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": "Zijiang M99"
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": "Zijiang M99 Type 99 Scope [8x]"
+                },
+                {
+                    "sourceDirectory": "2214699155",
+                    "sourceWorkshopId": 2214699155,
+                    "name": "Compound Bow [Broadhead Arrow]"
+                },
+                {
+                    "sourceDirectory": "2214699155",
+                    "sourceWorkshopId": 2214699155,
+                    "name": "Compound Bow [Bulletline Arrow]"
+                },
+                {
+                    "sourceDirectory": "2214699155",
+                    "sourceWorkshopId": 2214699155,
+                    "name": "Compound Bow [Explosive Arrow]"
+                },
+                {
+                    "sourceDirectory": "2214699155",
+                    "sourceWorkshopId": 2214699155,
+                    "name": "M34 Incendiary Grenade"
+                },
+                {
+                    "sourceDirectory": "2214699155",
+                    "sourceWorkshopId": 2214699155,
+                    "name": "M67 Fragmentation Grenade"
+                },
+                {
+                    "sourceDirectory": "2214699155",
+                    "sourceWorkshopId": 2214699155,
+                    "name": "Nailgun"
+                },
+                {
+                    "sourceDirectory": "2214699155",
+                    "sourceWorkshopId": 2214699155,
+                    "name": "Nailgun but better"
+                },
+                {
+                    "sourceDirectory": "2214699155",
+                    "sourceWorkshopId": 2214699155,
+                    "name": "Repair Torch"
+                },
+                {
+                    "sourceDirectory": "2214699155",
+                    "sourceWorkshopId": 2214699155,
+                    "name": "RGO Impact Fragmention"
+                },
+                {
+                    "sourceDirectory": "2214699155",
+                    "sourceWorkshopId": 2214699155,
+                    "name": "Rorsch Mk-1"
+                },
+                {
+                    "sourceDirectory": "2214699155",
+                    "sourceWorkshopId": 2214699155,
+                    "name": "Tactical Knife"
+                },
+                {
+                    "sourceDirectory": "2214699155",
+                    "sourceWorkshopId": 2214699155,
+                    "name": "Throwing Knife"
+                },
+                {
+                    "sourceDirectory": "2214699155",
+                    "sourceWorkshopId": 2214699155,
+                    "name": "Weaver Knife"
+                },
+                {
+                    "sourceDirectory": "2414580828",
+                    "sourceWorkshopId": 2414580828,
+                    "name": "2011"
+                },
+                {
+                    "sourceDirectory": "2414580828",
+                    "sourceWorkshopId": 2414580828,
+                    "name": "2011 Surpressed"
+                },
+                {
+                    "sourceDirectory": "2414580828",
+                    "sourceWorkshopId": 2414580828,
+                    "name": "308 Jaeger"
+                },
+                {
+                    "sourceDirectory": "2414580828",
+                    "sourceWorkshopId": 2414580828,
+                    "name": "ADDER"
+                },
+                {
+                    "sourceDirectory": "2414580828",
+                    "sourceWorkshopId": 2414580828,
+                    "name": "AME 556"
+                },
+                {
+                    "sourceDirectory": "2414580828",
+                    "sourceWorkshopId": 2414580828,
+                    "name": "ATD-80"
+                },
+                {
+                    "sourceDirectory": "2414580828",
+                    "sourceWorkshopId": 2414580828,
+                    "name": "Baker M12"
+                },
+                {
+                    "sourceDirectory": "2414580828",
+                    "sourceWorkshopId": 2414580828,
+                    "name": "Bulldog"
+                },
+                {
+                    "sourceDirectory": "2414580828",
+                    "sourceWorkshopId": 2414580828,
+                    "name": "Bulldog SOCOM"
+                },
+                {
+                    "sourceDirectory": "2414580828",
+                    "sourceWorkshopId": 2414580828,
+                    "name": "ERYX"
+                },
+                {
+                    "sourceDirectory": "2414580828",
+                    "sourceWorkshopId": 2414580828,
+                    "name": "Faluchi 330"
+                },
+                {
+                    "sourceDirectory": "2414580828",
+                    "sourceWorkshopId": 2414580828,
+                    "name": "Gewalt 500"
+                },
+                {
+                    "sourceDirectory": "2414580828",
+                    "sourceWorkshopId": 2414580828,
+                    "name": "Hunter ICWS"
+                },
+                {
+                    "sourceDirectory": "2414580828",
+                    "sourceWorkshopId": 2414580828,
+                    "name": "Keller 45"
+                },
+                {
+                    "sourceDirectory": "2414580828",
+                    "sourceWorkshopId": 2414580828,
+                    "name": "Klauk 18"
+                },
+                {
+                    "sourceDirectory": "2414580828",
+                    "sourceWorkshopId": 2414580828,
+                    "name": "Klauk 19"
+                },
+                {
+                    "sourceDirectory": "2414580828",
+                    "sourceWorkshopId": 2414580828,
+                    "name": "Klauk 19 SOCOM"
+                },
+                {
+                    "sourceDirectory": "2414580828",
+                    "sourceWorkshopId": 2414580828,
+                    "name": "Matt-Eber"
+                },
+                {
+                    "sourceDirectory": "2414580828",
+                    "sourceWorkshopId": 2414580828,
+                    "name": "Poltergeist AMR"
+                },
+                {
+                    "sourceDirectory": "2414580828",
+                    "sourceWorkshopId": 2414580828,
+                    "name": "Rapida 9mm"
+                },
+                {
+                    "sourceDirectory": "2414580828",
+                    "sourceWorkshopId": 2414580828,
+                    "name": "Reiss ATGM"
+                },
+                {
+                    "sourceDirectory": "2414580828",
+                    "sourceWorkshopId": 2414580828,
+                    "name": "ReyTac PDW"
+                },
+                {
+                    "sourceDirectory": "2414580828",
+                    "sourceWorkshopId": 2414580828,
+                    "name": "RK-12"
+                },
+                {
+                    "sourceDirectory": "2414580828",
+                    "sourceWorkshopId": 2414580828,
+                    "name": "RK-5"
+                },
+                {
+                    "sourceDirectory": "2414580828",
+                    "sourceWorkshopId": 2414580828,
+                    "name": "RK-5C"
+                },
+                {
+                    "sourceDirectory": "2414580828",
+                    "sourceWorkshopId": 2414580828,
+                    "name": "SCARAB SSR"
+                },
+                {
+                    "sourceDirectory": "2414580828",
+                    "sourceWorkshopId": 2414580828,
+                    "name": "SCARAB-H"
+                },
+                {
+                    "sourceDirectory": "2414580828",
+                    "sourceWorkshopId": 2414580828,
+                    "name": "Spectre MSR"
+                },
+                {
+                    "sourceDirectory": "2414580828",
+                    "sourceWorkshopId": 2414580828,
+                    "name": "Tomahawk"
+                },
+                {
+                    "sourceDirectory": "2414580828",
+                    "sourceWorkshopId": 2414580828,
+                    "name": "Victorious 1879"
+                }
+            ],
+            "vehicleConfiguration": [
+                {
+                    "type": 0,
+                    "sourceDirectory": "2025881424",
+                    "sourceWorkshopId": 2025881424,
+                    "name": "Jeep Blue"
+                },
+                {
+                    "type": 1,
+                    "sourceDirectory": "2025881424",
+                    "sourceWorkshopId": 2025881424,
+                    "name": "Jeep Blue MG"
+                },
+                {
+                    "type": 2,
+                    "sourceDirectory": "2025881424",
+                    "sourceWorkshopId": 2025881424,
+                    "name": "ATV Blue"
+                },
+                {
+                    "type": 3,
+                    "sourceDirectory": "2025881424",
+                    "sourceWorkshopId": 2025881424,
+                    "name": "MBT_Blue"
+                },
+                {
+                    "type": 4,
+                    "sourceDirectory": "2025881424",
+                    "sourceWorkshopId": 2025881424,
+                    "name": "Gunship Blue"
+                },
+                {
+                    "type": 5,
+                    "sourceDirectory": "2025881424",
+                    "sourceWorkshopId": 2025881424,
+                    "name": "Light Attack Plane Blue"
+                },
+                {
+                    "type": 6,
+                    "sourceDirectory": "2025881424",
+                    "sourceWorkshopId": 2025881424,
+                    "name": "Assault Boat Blue"
+                },
+                {
+                    "type": 7,
+                    "sourceDirectory": "2025881424",
+                    "sourceWorkshopId": 2025881424,
+                    "name": "Attack Boat Blue"
+                },
+                {
+                    "type": 8,
+                    "sourceDirectory": "2025881424",
+                    "sourceWorkshopId": 2025881424,
+                    "name": "Bomber Blue"
+                },
+                {
+                    "type": 9,
+                    "sourceDirectory": "2025881424",
+                    "sourceWorkshopId": 2025881424,
+                    "name": "TransportHeli Blue"
+                },
+                {
+                    "type": 10,
+                    "sourceDirectory": "2025881424",
+                    "sourceWorkshopId": 2025881424,
+                    "name": "APC_Blue"
+                }
+            ],
+            "turretConfiguration": [
+                {
+                    "type": 0,
+                    "sourceDirectory": "2025881424",
+                    "sourceWorkshopId": 2025881424,
+                    "name": "HMG Blue"
+                },
+                {
+                    "type": 1,
+                    "sourceDirectory": "2025881424",
+                    "sourceWorkshopId": 2025881424,
+                    "name": "Anti-Tank Blue"
+                },
+                {
+                    "type": 2,
+                    "sourceDirectory": "2025881424",
+                    "sourceWorkshopId": 2025881424,
+                    "name": "Anti Air Blue"
+                }
+            ],
+            "skin": {
+                "sourceDirectory": "",
+                "sourceWorkshopId": 0,
+                "name": ""
+            }
+        },
+        {
+            "availableWeapons": [
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": ".357 CONDOR"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "76 EAGLE"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "AMMO BAG"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "AUTOMATICO"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "AUTOMATICO AKIMBO"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "BUNDLE O' BUSS"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "C4"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "DAGGER"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "FRAG"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "GREASER"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "M1 GARRET"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "MEDIC BAG"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "PATRIOT"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "PATRIOT GL"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "PATRIOT TAC"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "QUICKSILVER"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "RECON LRR"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "RK-44"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "SABRE"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "SCALPEL"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "SIGNAL DMR"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "S-IND7"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "S-IND7 [SUP]"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "SLAM-R"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "SL-DEFENDER"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "SMOKE GRENADE"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "SPEARHEAD"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "SQUAD LEADER KIT"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "THUMPER"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "WRENCH"
+                },
+                {
+                    "sourceDirectory": "3455955387",
+                    "sourceWorkshopId": 3455955387,
+                    "name": "Defibrillator"
+                },
+                {
+                    "sourceDirectory": "1431630627",
+                    "sourceWorkshopId": 1431630627,
+                    "name": "AMMO/MED BOX"
+                },
+                {
+                    "sourceDirectory": "2214668496",
+                    "sourceWorkshopId": 2214668496,
+                    "name": "L86A2 LSW"
+                },
+                {
+                    "sourceDirectory": "2214668496",
+                    "sourceWorkshopId": 2214668496,
+                    "name": "L86A2 LSW SUSAT [4x]"
+                },
+                {
+                    "sourceDirectory": "2214668496",
+                    "sourceWorkshopId": 2214668496,
+                    "name": "M249 SAW"
+                },
+                {
+                    "sourceDirectory": "2214668496",
+                    "sourceWorkshopId": 2214668496,
+                    "name": "MG3 [Armor Piercing Tracer Rounds]"
+                },
+                {
+                    "sourceDirectory": "2214668496",
+                    "sourceWorkshopId": 2214668496,
+                    "name": "MG36"
+                },
+                {
+                    "sourceDirectory": "2214668496",
+                    "sourceWorkshopId": 2214668496,
+                    "name": "MG36 ACOG [4x]"
+                },
+                {
+                    "sourceDirectory": "2214668496",
+                    "sourceWorkshopId": 2214668496,
+                    "name": "MG36 Micro [RDS]"
+                },
+                {
+                    "sourceDirectory": "2214668496",
+                    "sourceWorkshopId": 2214668496,
+                    "name": "PKM"
+                },
+                {
+                    "sourceDirectory": "2214668496",
+                    "sourceWorkshopId": 2214668496,
+                    "name": "RPK"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "ACE 23"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "ACE 52 CQB"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "AK-74M"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "AKM"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "AKM Kobra [RDS]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "AKS-74u"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "AKS-74u PBS [Suppressor]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "AN-94 "
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "AN-94 Hyperburst"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "ASh-12.7"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "ASh-12.7 Suppressed"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "AUG A3"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "AUG A3 EOTech [Holo]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "AUG A3 JGM [4x]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "Bulldog SRSS"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "Bulldog SRSS Ballistic [8x]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "Bulldog SRSS EOTech [Holo]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "Bulldog SRSS Fisher [Suppressor]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "Bulldog SRSS Fisher Ballistic [Suppressor + 8x]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "Bulldog SRSS Fisher EOTech [Holo + 8x]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "DT MDR"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "DT MDR Aimpoint [RDS]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "DT MDR Aimpoint Fisher [RDS + Suppressor]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "DT MDR Fisher [Suppressor]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "DT MDR SU230 [4x]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "DT MDR SU230 Fisher [4x + Suppressor]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "F2000"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "F2000 Scoped [x1.6]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "Felin FAMAS"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "Felin FAMAS Coyote [RDS]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "Felin FAMAS Customized"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "FN FAL"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "FN FAL Kobra [RDS]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "FN FAL Kobra Surefire [4x + Suppressor]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "FN FAL Prisma [4x]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "FN FAL Prisma Surefire [4x + Suppressor]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "FN FAL Surefire [Suppressor]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "G36C"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "G36C Fisher [Suppressor]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "G36K HP Ammo"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "Galil ARM"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "Galil ARM Surefire [Suppressor]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "Groza-1 "
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "Groza-1 PBS-4 [Suppressor]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "HK443 Quad-Stacked Mags"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "HK-51"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "HK-51 Prisma [4x]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "HK-51 SRS02 [GDS]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "Honey Badger "
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "L82A2 EOTech [Holo]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "L85A2"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "M16A3"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "M16A3 .458 SOCOM"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "M16A3 EOTech [Holo]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "M4A1 Flip Up Sights"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "MCX"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "MK-18 CQBR"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "MK-18 CQBR ACOG [4x]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "MK-18 CQBR EOTech [Holo]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "MTAR-21"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "MTAR-21 ACOG [4x]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "MTAR-21 EOTech [Holo]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "PO416"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "PO416 EOTech [Holo]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "PO416 EOTech Fisher [Holo + Suppressor]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "PO416 Fisher [Suppressor]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "PO416 SU230 [4x]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "PO416 SU230 Fisher [4x + Suppressor]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "QBZ-90 Fisher [Suppressor]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "QBZ-95"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "RO933"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "RO933 Coyote [RDS]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "SA-58 OSW"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "SA-58 OSW EOTech [Holo]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "SCAR-17"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "SCAR-17 Fisher [Suppressor]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "SCAR-17 Fisher SRS02 [Suppressor + GDS]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "SCAR-17 SRS02 [GDS]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "SG510"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "SG553"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "SG553 Prisma [4x]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "SG553 RX01 [YTS]"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "StG-44"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "VHS-2"
+                },
+                {
+                    "sourceDirectory": "2214671215",
+                    "sourceWorkshopId": 2214671215,
+                    "name": "VHS-2 Coyote [RDS]"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "870 MCS Dragon's Breath"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "KSG-12 Buckshot"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "KSG-12 Dart"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "KSG-12 Dragon's Breath"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "KSG-12 Frag"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "KSG-12 Slug"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "M1014 Buckshot"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "M1014 Dragon's Breath"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "M1014 Flechette"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "M1014 Frag"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "M1014 Slug"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "M1887 Buckshot"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "M1887 Dart"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "M1887 Dragonsbreath"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "M1887 Frag"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "M1887 Hardcast Slug"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "M1897 Buckshot"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "M1897 Dart"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "M1897 Dragon's Breath"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "M1897 Frag"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "M1897 Hardcast Slug"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "M26 MASS Buckshot"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "M26 MASS Dragon's Breath"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "M26 MASS Flechette"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "M26 MASS Frag"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "M26 MASS Frag "
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "M26 MASS Slug"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "R870 MCS Buckshot"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "R870 MCS Flechette"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "R870 MCS Frag"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "R870 MCS Slug"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "Saiga 12k Buckshot"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "Saiga 12k Dragon's Breath"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "Saiga 12k Flechette"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "Saiga 12k Frag"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "Saiga 12k Slug"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "SBS-12 Buckshot"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "SBS-12 Dragon's Breath"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "SBS-12 Flechette"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "SBS-12 Frag"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "SBS-12 Slug"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "TOZ-34 Buckshot"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "TOZ-34 Dart"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "TOZ-34 Dragon's Breath"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "TOZ-34 Frag"
+                },
+                {
+                    "sourceDirectory": "2214677186",
+                    "sourceWorkshopId": 2214677186,
+                    "name": "TOZ-34 Slug"
+                },
+                {
+                    "sourceDirectory": "2214681896",
+                    "sourceWorkshopId": 2214681896,
+                    "name": "CZ-75"
+                },
+                {
+                    "sourceDirectory": "2214681896",
+                    "sourceWorkshopId": 2214681896,
+                    "name": "CZ-75 Automatic"
+                },
+                {
+                    "sourceDirectory": "2214681896",
+                    "sourceWorkshopId": 2214681896,
+                    "name": "DEagle .50 w/ Ballistic Shield"
+                },
+                {
+                    "sourceDirectory": "2214681896",
+                    "sourceWorkshopId": 2214681896,
+                    "name": "Desert Eagle .50"
+                },
+                {
+                    "sourceDirectory": "2214686112",
+                    "sourceWorkshopId": 2214686112,
+                    "name": "Dual Wield VZ. 61 Scorpion"
+                },
+                {
+                    "sourceDirectory": "2214686112",
+                    "sourceWorkshopId": 2214686112,
+                    "name": "FMG9"
+                },
+                {
+                    "sourceDirectory": "2214686112",
+                    "sourceWorkshopId": 2214686112,
+                    "name": "FMG-9"
+                },
+                {
+                    "sourceDirectory": "2214686112",
+                    "sourceWorkshopId": 2214686112,
+                    "name": "FMG9 Osprey [Suppressor]"
+                },
+                {
+                    "sourceDirectory": "2214681896",
+                    "sourceWorkshopId": 2214681896,
+                    "name": "FMG9 w/ Ballistic Shield"
+                },
+                {
+                    "sourceDirectory": "2214681896",
+                    "sourceWorkshopId": 2214681896,
+                    "name": "FN57"
+                },
+                {
+                    "sourceDirectory": "2214681896",
+                    "sourceWorkshopId": 2214681896,
+                    "name": "G17"
+                },
+                {
+                    "sourceDirectory": "2214681896",
+                    "sourceWorkshopId": 2214681896,
+                    "name": "G17 w/ Ballistic Shield"
+                },
+                {
+                    "sourceDirectory": "2214681896",
+                    "sourceWorkshopId": 2214681896,
+                    "name": "G18C"
+                },
+                {
+                    "sourceDirectory": "2214681896",
+                    "sourceWorkshopId": 2214681896,
+                    "name": "G34 w/ Stock"
+                },
+                {
+                    "sourceDirectory": "2214681896",
+                    "sourceWorkshopId": 2214681896,
+                    "name": "HK-45"
+                },
+                {
+                    "sourceDirectory": "2214681896",
+                    "sourceWorkshopId": 2214681896,
+                    "name": "HK-45 Osprey [Suppressor]"
+                },
+                {
+                    "sourceDirectory": "2214681896",
+                    "sourceWorkshopId": 2214681896,
+                    "name": "Illrod"
+                },
+                {
+                    "sourceDirectory": "2214681896",
+                    "sourceWorkshopId": 2214681896,
+                    "name": "Judge Buckshot"
+                },
+                {
+                    "sourceDirectory": "2214681896",
+                    "sourceWorkshopId": 2214681896,
+                    "name": "Judge Dart"
+                },
+                {
+                    "sourceDirectory": "2214681896",
+                    "sourceWorkshopId": 2214681896,
+                    "name": "Judge Dragon's Breath"
+                },
+                {
+                    "sourceDirectory": "2214681896",
+                    "sourceWorkshopId": 2214681896,
+                    "name": "Judge Frag"
+                },
+                {
+                    "sourceDirectory": "2214681896",
+                    "sourceWorkshopId": 2214681896,
+                    "name": "Judge Slug"
+                },
+                {
+                    "sourceDirectory": "2214686112",
+                    "sourceWorkshopId": 2214686112,
+                    "name": "M1928 Thompson"
+                },
+                {
+                    "sourceDirectory": "2214681896",
+                    "sourceWorkshopId": 2214681896,
+                    "name": "M1951"
+                },
+                {
+                    "sourceDirectory": "2214686112",
+                    "sourceWorkshopId": 2214686112,
+                    "name": "M1A1P Carbine"
+                },
+                {
+                    "sourceDirectory": "2214681896",
+                    "sourceWorkshopId": 2214681896,
+                    "name": "M93 Raffica"
+                },
+                {
+                    "sourceDirectory": "2214681896",
+                    "sourceWorkshopId": 2214681896,
+                    "name": "M9A1"
+                },
+                {
+                    "sourceDirectory": "2214681896",
+                    "sourceWorkshopId": 2214681896,
+                    "name": "M9A1 w/ Ballistic Shield"
+                },
+                {
+                    "sourceDirectory": "2214686112",
+                    "sourceWorkshopId": 2214686112,
+                    "name": "MAC-11"
+                },
+                {
+                    "sourceDirectory": "2214686112",
+                    "sourceWorkshopId": 2214686112,
+                    "name": "MAC-11 Monster [Suppressor]"
+                },
+                {
+                    "sourceDirectory": "2214681896",
+                    "sourceWorkshopId": 2214681896,
+                    "name": "Makarov PMM"
+                },
+                {
+                    "sourceDirectory": "2214686112",
+                    "sourceWorkshopId": 2214686112,
+                    "name": "MP18"
+                },
+                {
+                    "sourceDirectory": "2214686112",
+                    "sourceWorkshopId": 2214686112,
+                    "name": "MP41"
+                },
+                {
+                    "sourceDirectory": "2214681896",
+                    "sourceWorkshopId": 2214681896,
+                    "name": "MP412 REX"
+                },
+                {
+                    "sourceDirectory": "2214681896",
+                    "sourceWorkshopId": 2214681896,
+                    "name": "MP443"
+                },
+                {
+                    "sourceDirectory": "2214686112",
+                    "sourceWorkshopId": 2214686112,
+                    "name": "MP5A5"
+                },
+                {
+                    "sourceDirectory": "2214686112",
+                    "sourceWorkshopId": 2214686112,
+                    "name": "MP5K"
+                },
+                {
+                    "sourceDirectory": "2214686112",
+                    "sourceWorkshopId": 2214686112,
+                    "name": "MP5SD"
+                },
+                {
+                    "sourceDirectory": "2214686112",
+                    "sourceWorkshopId": 2214686112,
+                    "name": "MP7"
+                },
+                {
+                    "sourceDirectory": "2214686112",
+                    "sourceWorkshopId": 2214686112,
+                    "name": "MP7 ACOG [4x]"
+                },
+                {
+                    "sourceDirectory": "2214686112",
+                    "sourceWorkshopId": 2214686112,
+                    "name": "MP7 EOTech [Holo]"
+                },
+                {
+                    "sourceDirectory": "2214686112",
+                    "sourceWorkshopId": 2214686112,
+                    "name": "MPX"
+                },
+                {
+                    "sourceDirectory": "2214686112",
+                    "sourceWorkshopId": 2214686112,
+                    "name": "MPX Osprey [Suppressor]"
+                },
+                {
+                    "sourceDirectory": "2214681896",
+                    "sourceWorkshopId": 2214681896,
+                    "name": "P226"
+                },
+                {
+                    "sourceDirectory": "2214686112",
+                    "sourceWorkshopId": 2214686112,
+                    "name": "P90"
+                },
+                {
+                    "sourceDirectory": "2214686112",
+                    "sourceWorkshopId": 2214686112,
+                    "name": "P90 Surefire [Suppressor]"
+                },
+                {
+                    "sourceDirectory": "2214686112",
+                    "sourceWorkshopId": 2214686112,
+                    "name": "P90C Red Dot"
+                },
+                {
+                    "sourceDirectory": "2214681896",
+                    "sourceWorkshopId": 2214681896,
+                    "name": "QSZ-92"
+                },
+                {
+                    "sourceDirectory": "2214681896",
+                    "sourceWorkshopId": 2214681896,
+                    "name": "S&W .40 Pro"
+                },
+                {
+                    "sourceDirectory": "2214686112",
+                    "sourceWorkshopId": 2214686112,
+                    "name": "SMG-45 HP Ammo"
+                },
+                {
+                    "sourceDirectory": "2214681896",
+                    "sourceWorkshopId": 2214681896,
+                    "name": "SW1911"
+                },
+                {
+                    "sourceDirectory": "2214681896",
+                    "sourceWorkshopId": 2214681896,
+                    "name": "SW40P w/ Ballistic Shield"
+                },
+                {
+                    "sourceDirectory": "2214681896",
+                    "sourceWorkshopId": 2214681896,
+                    "name": "Taurus .44"
+                },
+                {
+                    "sourceDirectory": "2214681896",
+                    "sourceWorkshopId": 2214681896,
+                    "name": "Tec-9"
+                },
+                {
+                    "sourceDirectory": "2214681896",
+                    "sourceWorkshopId": 2214681896,
+                    "name": "Tec-9 Excuse me what the fuck"
+                },
+                {
+                    "sourceDirectory": "2214681896",
+                    "sourceWorkshopId": 2214681896,
+                    "name": "Tec-9 Monster [Suppressor]"
+                },
+                {
+                    "sourceDirectory": "2214686112",
+                    "sourceWorkshopId": 2214686112,
+                    "name": "UMP-45"
+                },
+                {
+                    "sourceDirectory": "2214686112",
+                    "sourceWorkshopId": 2214686112,
+                    "name": "UMP-45 "
+                },
+                {
+                    "sourceDirectory": "2214686112",
+                    "sourceWorkshopId": 2214686112,
+                    "name": "UMP-45 EOTech [Holo]"
+                },
+                {
+                    "sourceDirectory": "2214686112",
+                    "sourceWorkshopId": 2214686112,
+                    "name": "UMP-45 Osprey [Suppressor]"
+                },
+                {
+                    "sourceDirectory": "2214686112",
+                    "sourceWorkshopId": 2214686112,
+                    "name": "UMP-45 Suppressor [Osprey]"
+                },
+                {
+                    "sourceDirectory": "2214686112",
+                    "sourceWorkshopId": 2214686112,
+                    "name": "UZI"
+                },
+                {
+                    "sourceDirectory": "2214686112",
+                    "sourceWorkshopId": 2214686112,
+                    "name": "Uzi .41 AE Extended"
+                },
+                {
+                    "sourceDirectory": "2214686112",
+                    "sourceWorkshopId": 2214686112,
+                    "name": "Uzi Marksman"
+                },
+                {
+                    "sourceDirectory": "2214686112",
+                    "sourceWorkshopId": 2214686112,
+                    "name": "Uzi MK9K [Suppressor]"
+                },
+                {
+                    "sourceDirectory": "2214686112",
+                    "sourceWorkshopId": 2214686112,
+                    "name": "UZI RMR [YTS]"
+                },
+                {
+                    "sourceDirectory": "2214686112",
+                    "sourceWorkshopId": 2214686112,
+                    "name": "Vector K10"
+                },
+                {
+                    "sourceDirectory": "2214686112",
+                    "sourceWorkshopId": 2214686112,
+                    "name": "Vector K10 Coyote [RDS]"
+                },
+                {
+                    "sourceDirectory": "2214686112",
+                    "sourceWorkshopId": 2214686112,
+                    "name": "Vector K10 Coyote Osprey [RDS + Suppressor]"
+                },
+                {
+                    "sourceDirectory": "2214686112",
+                    "sourceWorkshopId": 2214686112,
+                    "name": "Vector K10 Customized"
+                },
+                {
+                    "sourceDirectory": "2214686112",
+                    "sourceWorkshopId": 2214686112,
+                    "name": "Vector K10 Osprey [Suppressor]"
+                },
+                {
+                    "sourceDirectory": "2214686112",
+                    "sourceWorkshopId": 2214686112,
+                    "name": "Vector K10 Tactical"
+                },
+                {
+                    "sourceDirectory": "2214681896",
+                    "sourceWorkshopId": 2214681896,
+                    "name": "Welrod"
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": ".300 Knockout"
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": ".300 Knockout SU230 [4x]"
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": "ACE 53"
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": "AWM "
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": "AWM Hunter [8x]"
+                },
+                {
+                    "sourceDirectory": "2214693494",
+                    "sourceWorkshopId": 2214693494,
+                    "name": "Bunkerfaust 3R1"
+                },
+                {
+                    "sourceDirectory": "2214693494",
+                    "sourceWorkshopId": 2214693494,
+                    "name": "FGM-148 Javelin"
+                },
+                {
+                    "sourceDirectory": "2214693494",
+                    "sourceWorkshopId": 2214693494,
+                    "name": "FGM-172 SRAW"
+                },
+                {
+                    "sourceDirectory": "2214693494",
+                    "sourceWorkshopId": 2214693494,
+                    "name": "FIM-92 Stinger MANPADS"
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": "JNG-90"
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": "JNG-90 Ballistic [8x]"
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": "L1A1 SLR SU230 [4x]"
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": "M1 Garand"
+                },
+                {
+                    "sourceDirectory": "2214693494",
+                    "sourceWorkshopId": 2214693494,
+                    "name": "M136 AT4 ER"
+                },
+                {
+                    "sourceDirectory": "2214693494",
+                    "sourceWorkshopId": 2214693494,
+                    "name": "M136 AT4 HE Dual Charge"
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": "M200 Intervention"
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": "M200 Intervention Ballistic [8x]"
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": "M200 Intervention Surefire [Suppressor]"
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": "M200 Intervention Surefire Ballistic [Suppressor + 8x]"
+                },
+                {
+                    "sourceDirectory": "2214693494",
+                    "sourceWorkshopId": 2214693494,
+                    "name": "M3 MAAWS Flechette"
+                },
+                {
+                    "sourceDirectory": "2214693494",
+                    "sourceWorkshopId": 2214693494,
+                    "name": "M3 MAAWS High Explosive Anti-Tank"
+                },
+                {
+                    "sourceDirectory": "2214693494",
+                    "sourceWorkshopId": 2214693494,
+                    "name": "M3 MAAWS High Explosive Dual Purpose"
+                },
+                {
+                    "sourceDirectory": "2214693494",
+                    "sourceWorkshopId": 2214693494,
+                    "name": "M32 MGL Flechette"
+                },
+                {
+                    "sourceDirectory": "2214693494",
+                    "sourceWorkshopId": 2214693494,
+                    "name": "M32 MGL High Explosive"
+                },
+                {
+                    "sourceDirectory": "2214693494",
+                    "sourceWorkshopId": 2214693494,
+                    "name": "M32 MGL LVG"
+                },
+                {
+                    "sourceDirectory": "2214693494",
+                    "sourceWorkshopId": 2214693494,
+                    "name": "M32 MGL Slug"
+                },
+                {
+                    "sourceDirectory": "2214693494",
+                    "sourceWorkshopId": 2214693494,
+                    "name": "M320 40mm Slug"
+                },
+                {
+                    "sourceDirectory": "2214693494",
+                    "sourceWorkshopId": 2214693494,
+                    "name": "M320 Buckshot"
+                },
+                {
+                    "sourceDirectory": "2214693494",
+                    "sourceWorkshopId": 2214693494,
+                    "name": "M320 High Explosive"
+                },
+                {
+                    "sourceDirectory": "2214693494",
+                    "sourceWorkshopId": 2214693494,
+                    "name": "M320 Incendiary Field"
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": "M82A1 Ballistic [8x]"
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": "M82A1 CQ"
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": "MK12 SPR Ballistic [8x]"
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": "MK-14 EBR"
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": "MK-14 EBR Ballistic [8x]"
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": "MK-14 EBR Ballistic Fisher [8x + Suppressor]"
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": "MK-14 EBR Fisher [Suppressor]"
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": "MK-14 EBR SU230 [6x]"
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": "MK-14 EBR SU230 Fisher [6x + Fisher]"
+                },
+                {
+                    "sourceDirectory": "2214693494",
+                    "sourceWorkshopId": 2214693494,
+                    "name": "MK153 SMAW HEAT"
+                },
+                {
+                    "sourceDirectory": "2214693494",
+                    "sourceWorkshopId": 2214693494,
+                    "name": "Mk153 SMAW Thermobaric"
+                },
+                {
+                    "sourceDirectory": "2214693494",
+                    "sourceWorkshopId": 2214693494,
+                    "name": "Panzerfaust 3R1"
+                },
+                {
+                    "sourceDirectory": "2214693494",
+                    "sourceWorkshopId": 2214693494,
+                    "name": "Panzerfaust 3R1 Tandem"
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": "PGM Ultima Ratio Hecate II"
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": "PTR-91"
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": "PTR-91 Prisma [4x]"
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": "QBU-88"
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": "QBU-88 Ballistic [8x]"
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": "Remington 700 LTR"
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": "Remington 700 LTR Fisher [Suppressor]"
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": "Remington 700 LTR FLIR [4x Thermal]"
+                },
+                {
+                    "sourceDirectory": "2214693494",
+                    "sourceWorkshopId": 2214693494,
+                    "name": "RPG-7"
+                },
+                {
+                    "sourceDirectory": "2214693494",
+                    "sourceWorkshopId": 2214693494,
+                    "name": "RPG-7 105mm HEAT Tandem"
+                },
+                {
+                    "sourceDirectory": "2214693494",
+                    "sourceWorkshopId": 2214693494,
+                    "name": "RPG-7 105mm Thermobaric"
+                },
+                {
+                    "sourceDirectory": "2214693494",
+                    "sourceWorkshopId": 2214693494,
+                    "name": "RPG-7 40mm Fragmentation"
+                },
+                {
+                    "sourceDirectory": "2214693494",
+                    "sourceWorkshopId": 2214693494,
+                    "name": "SA-18 Igla AA"
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": "SCAR-17 SV Ballistic [8x]"
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": "SCAR-17 SV Ballistic Fisher [8x + Suppressor]"
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": "Scout Elite"
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": "Scout Elite Ballistic [8x]"
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": "Scout Elite Ballistic Fisher [8x + Suppressor]"
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": "Scout Elite Fisher [Suppressor]"
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": "SR-25 ECC"
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": "SR-25 ECC Hunter [8x]"
+                },
+                {
+                    "sourceDirectory": "2214693494",
+                    "sourceWorkshopId": 2214693494,
+                    "name": "Starstreak HVM-II"
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": "XM109 25x59mm HE"
+                },
+                {
+                    "sourceDirectory": "2214693494",
+                    "sourceWorkshopId": 2214693494,
+                    "name": "XM25 [Airburst]"
+                },
+                {
+                    "sourceDirectory": "2214693494",
+                    "sourceWorkshopId": 2214693494,
+                    "name": "XM25 [Dart]"
+                },
+                {
+                    "sourceDirectory": "2214693494",
+                    "sourceWorkshopId": 2214693494,
+                    "name": "XM25 [HEAT]"
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": "Zijiang M99"
+                },
+                {
+                    "sourceDirectory": "2214690613",
+                    "sourceWorkshopId": 2214690613,
+                    "name": "Zijiang M99 Type 99 Scope [8x]"
+                },
+                {
+                    "sourceDirectory": "2214699155",
+                    "sourceWorkshopId": 2214699155,
+                    "name": "Compound Bow [Broadhead Arrow]"
+                },
+                {
+                    "sourceDirectory": "2214699155",
+                    "sourceWorkshopId": 2214699155,
+                    "name": "Compound Bow [Bulletline Arrow]"
+                },
+                {
+                    "sourceDirectory": "2214699155",
+                    "sourceWorkshopId": 2214699155,
+                    "name": "Compound Bow [Explosive Arrow]"
+                },
+                {
+                    "sourceDirectory": "2214699155",
+                    "sourceWorkshopId": 2214699155,
+                    "name": "M34 Incendiary Grenade"
+                },
+                {
+                    "sourceDirectory": "2214699155",
+                    "sourceWorkshopId": 2214699155,
+                    "name": "M67 Fragmentation Grenade"
+                },
+                {
+                    "sourceDirectory": "2214699155",
+                    "sourceWorkshopId": 2214699155,
+                    "name": "Nailgun"
+                },
+                {
+                    "sourceDirectory": "2214699155",
+                    "sourceWorkshopId": 2214699155,
+                    "name": "Nailgun but better"
+                },
+                {
+                    "sourceDirectory": "2214699155",
+                    "sourceWorkshopId": 2214699155,
+                    "name": "Repair Torch"
+                },
+                {
+                    "sourceDirectory": "2214699155",
+                    "sourceWorkshopId": 2214699155,
+                    "name": "RGO Impact Fragmention"
+                },
+                {
+                    "sourceDirectory": "2214699155",
+                    "sourceWorkshopId": 2214699155,
+                    "name": "Rorsch Mk-1"
+                },
+                {
+                    "sourceDirectory": "2214699155",
+                    "sourceWorkshopId": 2214699155,
+                    "name": "Tactical Knife"
+                },
+                {
+                    "sourceDirectory": "2214699155",
+                    "sourceWorkshopId": 2214699155,
+                    "name": "Throwing Knife"
+                },
+                {
+                    "sourceDirectory": "2214699155",
+                    "sourceWorkshopId": 2214699155,
+                    "name": "Weaver Knife"
+                },
+                {
+                    "sourceDirectory": "2414580828",
+                    "sourceWorkshopId": 2414580828,
+                    "name": "2011"
+                },
+                {
+                    "sourceDirectory": "2414580828",
+                    "sourceWorkshopId": 2414580828,
+                    "name": "2011 Surpressed"
+                },
+                {
+                    "sourceDirectory": "2414580828",
+                    "sourceWorkshopId": 2414580828,
+                    "name": "308 Jaeger"
+                },
+                {
+                    "sourceDirectory": "2414580828",
+                    "sourceWorkshopId": 2414580828,
+                    "name": "ADDER"
+                },
+                {
+                    "sourceDirectory": "2414580828",
+                    "sourceWorkshopId": 2414580828,
+                    "name": "AME 556"
+                },
+                {
+                    "sourceDirectory": "2414580828",
+                    "sourceWorkshopId": 2414580828,
+                    "name": "ATD-80"
+                },
+                {
+                    "sourceDirectory": "2414580828",
+                    "sourceWorkshopId": 2414580828,
+                    "name": "Baker M12"
+                },
+                {
+                    "sourceDirectory": "2414580828",
+                    "sourceWorkshopId": 2414580828,
+                    "name": "Bulldog"
+                },
+                {
+                    "sourceDirectory": "2414580828",
+                    "sourceWorkshopId": 2414580828,
+                    "name": "Bulldog SOCOM"
+                },
+                {
+                    "sourceDirectory": "2414580828",
+                    "sourceWorkshopId": 2414580828,
+                    "name": "ERYX"
+                },
+                {
+                    "sourceDirectory": "2414580828",
+                    "sourceWorkshopId": 2414580828,
+                    "name": "Faluchi 330"
+                },
+                {
+                    "sourceDirectory": "2414580828",
+                    "sourceWorkshopId": 2414580828,
+                    "name": "Gewalt 500"
+                },
+                {
+                    "sourceDirectory": "2414580828",
+                    "sourceWorkshopId": 2414580828,
+                    "name": "Hunter ICWS"
+                },
+                {
+                    "sourceDirectory": "2414580828",
+                    "sourceWorkshopId": 2414580828,
+                    "name": "Keller 45"
+                },
+                {
+                    "sourceDirectory": "2414580828",
+                    "sourceWorkshopId": 2414580828,
+                    "name": "Klauk 18"
+                },
+                {
+                    "sourceDirectory": "2414580828",
+                    "sourceWorkshopId": 2414580828,
+                    "name": "Klauk 19"
+                },
+                {
+                    "sourceDirectory": "2414580828",
+                    "sourceWorkshopId": 2414580828,
+                    "name": "Klauk 19 SOCOM"
+                },
+                {
+                    "sourceDirectory": "2414580828",
+                    "sourceWorkshopId": 2414580828,
+                    "name": "Matt-Eber"
+                },
+                {
+                    "sourceDirectory": "2414580828",
+                    "sourceWorkshopId": 2414580828,
+                    "name": "Poltergeist AMR"
+                },
+                {
+                    "sourceDirectory": "2414580828",
+                    "sourceWorkshopId": 2414580828,
+                    "name": "Rapida 9mm"
+                },
+                {
+                    "sourceDirectory": "2414580828",
+                    "sourceWorkshopId": 2414580828,
+                    "name": "Reiss ATGM"
+                },
+                {
+                    "sourceDirectory": "2414580828",
+                    "sourceWorkshopId": 2414580828,
+                    "name": "ReyTac PDW"
+                },
+                {
+                    "sourceDirectory": "2414580828",
+                    "sourceWorkshopId": 2414580828,
+                    "name": "RK-12"
+                },
+                {
+                    "sourceDirectory": "2414580828",
+                    "sourceWorkshopId": 2414580828,
+                    "name": "RK-5"
+                },
+                {
+                    "sourceDirectory": "2414580828",
+                    "sourceWorkshopId": 2414580828,
+                    "name": "RK-5C"
+                },
+                {
+                    "sourceDirectory": "2414580828",
+                    "sourceWorkshopId": 2414580828,
+                    "name": "SCARAB SSR"
+                },
+                {
+                    "sourceDirectory": "2414580828",
+                    "sourceWorkshopId": 2414580828,
+                    "name": "SCARAB-H"
+                },
+                {
+                    "sourceDirectory": "2414580828",
+                    "sourceWorkshopId": 2414580828,
+                    "name": "Spectre MSR"
+                },
+                {
+                    "sourceDirectory": "2414580828",
+                    "sourceWorkshopId": 2414580828,
+                    "name": "Tomahawk"
+                },
+                {
+                    "sourceDirectory": "2414580828",
+                    "sourceWorkshopId": 2414580828,
+                    "name": "Victorious 1879"
+                }
+            ],
+            "vehicleConfiguration": [
+                {
+                    "type": 0,
+                    "sourceDirectory": "2025881424",
+                    "sourceWorkshopId": 2025881424,
+                    "name": "Jeep Red"
+                },
+                {
+                    "type": 1,
+                    "sourceDirectory": "2025881424",
+                    "sourceWorkshopId": 2025881424,
+                    "name": "Jeep Red MG"
+                },
+                {
+                    "type": 2,
+                    "sourceDirectory": "2025881424",
+                    "sourceWorkshopId": 2025881424,
+                    "name": "ATV Red"
+                },
+                {
+                    "type": 3,
+                    "sourceDirectory": "2025881424",
+                    "sourceWorkshopId": 2025881424,
+                    "name": "MBT_Red"
+                },
+                {
+                    "type": 4,
+                    "sourceDirectory": "2025881424",
+                    "sourceWorkshopId": 2025881424,
+                    "name": "Gunship Red"
+                },
+                {
+                    "type": 5,
+                    "sourceDirectory": "2025881424",
+                    "sourceWorkshopId": 2025881424,
+                    "name": "Light Attack Plane Red"
+                },
+                {
+                    "type": 6,
+                    "sourceDirectory": "2025881424",
+                    "sourceWorkshopId": 2025881424,
+                    "name": "Assault Boat Red"
+                },
+                {
+                    "type": 7,
+                    "sourceDirectory": "2025881424",
+                    "sourceWorkshopId": 2025881424,
+                    "name": "Attack Boat Red"
+                },
+                {
+                    "type": 8,
+                    "sourceDirectory": "2025881424",
+                    "sourceWorkshopId": 2025881424,
+                    "name": "Bomber Red"
+                },
+                {
+                    "type": 9,
+                    "sourceDirectory": "2025881424",
+                    "sourceWorkshopId": 2025881424,
+                    "name": "TransportHeli Red"
+                },
+                {
+                    "type": 10,
+                    "sourceDirectory": "2025881424",
+                    "sourceWorkshopId": 2025881424,
+                    "name": "APC_Red"
+                }
+            ],
+            "turretConfiguration": [
+                {
+                    "type": 0,
+                    "sourceDirectory": "2025881424",
+                    "sourceWorkshopId": 2025881424,
+                    "name": "HMG Red"
+                },
+                {
+                    "type": 1,
+                    "sourceDirectory": "2025881424",
+                    "sourceWorkshopId": 2025881424,
+                    "name": "Anti-Tank Red"
+                },
+                {
+                    "type": 2,
+                    "sourceDirectory": "2025881424",
+                    "sourceWorkshopId": 2025881424,
+                    "name": "Anti Air Red"
+                }
+            ],
+            "skin": {
+                "sourceDirectory": "",
+                "sourceWorkshopId": 0,
+                "name": ""
+            }
+        }
+    ],
+    "mutatorInfo": [
+        {
+            "sourceDirectory": "2972475835",
+            "sourceWorkshopId": 2972475835,
+            "name": "Vehicle Burn Corpse Vanish",
+            "fields": []
+        },
+        {
+            "sourceDirectory": "2785196153",
+            "sourceWorkshopId": 2785196153,
+            "name": "Possession",
+            "fields": [
+                {
+                    "id": "RespawnTimer",
+                    "serializedValue": "0"
+                },
+                {
+                    "id": "PrioritizePlayerSquad",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "KeepPlayerWeapons",
+                    "serializedValue": "False"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "3240681298",
+            "sourceWorkshopId": 3240681298,
+            "name": "No Back Capping",
+            "fields": [
+                {
+                    "id": "restrictNeutral",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "flaglessBypass",
+                    "serializedValue": "True"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "2975979851",
+            "sourceWorkshopId": 2975979851,
+            "name": "person's flesh impacts",
+            "fields": [
+                {
+                    "id": "stainInstanceCount",
+                    "serializedValue": "1"
+                },
+                {
+                    "id": "maxStains",
+                    "serializedValue": "50"
+                },
+                {
+                    "id": "fleshSoundVolume",
+                    "serializedValue": "1"
+                },
+                {
+                    "id": "stainRemovalTime",
+                    "serializedValue": "30"
+                },
+                {
+                    "id": "stainDistance",
+                    "serializedValue": "7"
+                },
+                {
+                    "id": "ImpactCooldownTime",
+                    "serializedValue": "0.01"
+                },
+                {
+                    "id": "SFXCooldownTime",
+                    "serializedValue": "0.01"
+                },
+                {
+                    "id": "stainCooldownTime",
+                    "serializedValue": "0.04"
+                },
+                {
+                    "id": "bloodstains",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "fleshsounds",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "bloodparticles",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "removeDrops",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "removePreviousOnNewStain",
+                    "serializedValue": "True"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "2995274085",
+            "sourceWorkshopId": 2995274085,
+            "name": "Flyby Replacer",
+            "fields": [
+                {
+                    "id": "minDistance",
+                    "serializedValue": "1"
+                },
+                {
+                    "id": "maxDistance",
+                    "serializedValue": "20"
+                },
+                {
+                    "id": "spread",
+                    "serializedValue": "30"
+                },
+                {
+                    "id": "pitchMin",
+                    "serializedValue": "0.8"
+                },
+                {
+                    "id": "pitchMax",
+                    "serializedValue": "1.1"
+                },
+                {
+                    "id": "volume",
+                    "serializedValue": "1"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "3359609601",
+            "sourceWorkshopId": 3359609601,
+            "name": "Replace Gunner For All Vehicles",
+            "fields": []
+        },
+        {
+            "sourceDirectory": "3013792550",
+            "sourceWorkshopId": 3013792550,
+            "name": "<color=#7CFC00>Camera Shake Controller</color>",
+            "fields": [
+                {
+                    "id": "ShakeLimit",
+                    "serializedValue": "-1"
+                },
+                {
+                    "id": "CameraShakeMultiplier",
+                    "serializedValue": "0.45"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "3299786496",
+            "sourceWorkshopId": 3299786496,
+            "name": "ImpactSFX",
+            "fields": []
+        },
+        {
+            "sourceDirectory": "3298724009",
+            "sourceWorkshopId": 3298724009,
+            "name": "Edit Speed When ADS",
+            "fields": [
+                {
+                    "id": "VarADSspeed",
+                    "serializedValue": "0.35"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "2129391158",
+            "sourceWorkshopId": 2129391158,
+            "name": "No Knockdown",
+            "fields": []
+        },
+        {
+            "sourceDirectory": "3420135065",
+            "sourceWorkshopId": 3420135065,
+            "name": "No Spawning on Contested",
+            "fields": [
+                {
+                    "id": "SpawnAnywaysIfContested",
+                    "serializedValue": "True"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "3113068555",
+            "sourceWorkshopId": 3113068555,
+            "name": "[<color=aqua>LQS</color>] VHW",
+            "fields": [
+                {
+                    "id": "weaponBlacklist",
+                    "serializedValue": "Example,Gun1,Gun2,Gun3"
+                },
+                {
+                    "id": "visualizePrimaryWeapons",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "visualizeSecondaryWeapons",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "visualizeHeavyWeapons",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "canBeShowedOn",
+                    "serializedValue": "0"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "2407513273",
+            "sourceWorkshopId": 2407513273,
+            "name": "Universal Camera Shake",
+            "fields": [
+                {
+                    "id": "Vehicle",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "Spread",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "Shaking",
+                    "serializedValue": "1"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "2799793905",
+            "sourceWorkshopId": 2799793905,
+            "name": "Universal Recoil",
+            "fields": [
+                {
+                    "id": "recoilAmp",
+                    "serializedValue": "1"
+                },
+                {
+                    "id": "swayAmp",
+                    "serializedValue": "1"
+                },
+                {
+                    "id": "trendMultiplier",
+                    "serializedValue": "1"
+                },
+                {
+                    "id": "recoveryAmp",
+                    "serializedValue": "1"
+                },
+                {
+                    "id": "pushMult",
+                    "serializedValue": "1"
+                },
+                {
+                    "id": "rockMult",
+                    "serializedValue": "1"
+                },
+                {
+                    "id": "crouchMult",
+                    "serializedValue": "0.7"
+                },
+                {
+                    "id": "proneMult",
+                    "serializedValue": "0.8"
+                },
+                {
+                    "id": "reducedVisual",
+                    "serializedValue": "0.8"
+                },
+                {
+                    "id": "zoomMult",
+                    "serializedValue": "0.65"
+                },
+                {
+                    "id": "bannedWeps",
+                    "serializedValue": "artemis bow;Example 2"
+                },
+                {
+                    "id": "bannedTags",
+                    "serializedValue": "overhaul;Example 2"
+                },
+                {
+                    "id": "useProneMult",
+                    "serializedValue": "True"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "2259051407",
+            "sourceWorkshopId": 2259051407,
+            "name": "Post Processing",
+            "fields": [
+                {
+                    "id": "color",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "contrast",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "tonemapping",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "bloom",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "vignette",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "blur",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "rgbsplit",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "motionblur",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "fisheye",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "vortex",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "twirl",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "type_contrast",
+                    "serializedValue": "0"
+                },
+                {
+                    "id": "type_color",
+                    "serializedValue": "0"
+                },
+                {
+                    "id": "type_tonemapping",
+                    "serializedValue": "0"
+                },
+                {
+                    "id": "type_bloom",
+                    "serializedValue": "0"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "3015125721",
+            "sourceWorkshopId": 3015125721,
+            "name": "Super HUD Hider",
+            "fields": [
+                {
+                    "id": "HealthHUD",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "WeaponHUD",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "VehicleHUD",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "SquadHUD",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "FlagHUD",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "OverlayHUD",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "HitmarkerHUD",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "KillfeedHUD",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "DamageDirectionHUD",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "KillCameraHUD",
+                    "serializedValue": "True"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "3359867181",
+            "sourceWorkshopId": 3359867181,
+            "name": "Disable Friendly Vehicle Ramming",
+            "fields": []
+        },
+        {
+            "sourceDirectory": "3358930007",
+            "sourceWorkshopId": 3358930007,
+            "name": "Drowning Mutator",
+            "fields": [
+                {
+                    "id": "swimmingTimeThreshold",
+                    "serializedValue": "25"
+                },
+                {
+                    "id": "damagePerSecond",
+                    "serializedValue": "55"
+                },
+                {
+                    "id": "isPlayerDamageEnabled",
+                    "serializedValue": "True"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "3358018318",
+            "sourceWorkshopId": 3358018318,
+            "name": "Empty / Dry Fire Sounds",
+            "fields": []
+        },
+        {
+            "sourceDirectory": "3367142258",
+            "sourceWorkshopId": 3367142258,
+            "name": "Better Bot Targeting",
+            "fields": []
+        },
+        {
+            "sourceDirectory": "3369454890",
+            "sourceWorkshopId": 3369454890,
+            "name": "Permanent Wrecks",
+            "fields": [
+                {
+                    "id": "maxWrecks",
+                    "serializedValue": "50"
+                },
+                {
+                    "id": "spawnerRadius",
+                    "serializedValue": "10"
+                },
+                {
+                    "id": "runwayLength",
+                    "serializedValue": "500"
+                },
+                {
+                    "id": "runwayWidth",
+                    "serializedValue": "40"
+                },
+                {
+                    "id": "runwayHeight",
+                    "serializedValue": "10"
+                },
+                {
+                    "id": "runwayForwardOffset",
+                    "serializedValue": "-10"
+                },
+                {
+                    "id": "despawnAnimSpeed",
+                    "serializedValue": "0.25"
+                },
+                {
+                    "id": "waitSeconds",
+                    "serializedValue": "20"
+                },
+                {
+                    "id": "burningChance",
+                    "serializedValue": "100"
+                },
+                {
+                    "id": "blacklist",
+                    "serializedValue": "EXAMPLE 1;EXAMPLE 2"
+                },
+                {
+                    "id": "movable",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "shadows",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "particles",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "protectSpawners",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "debugDraw",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "logLevel",
+                    "serializedValue": "2"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "2809873716",
+            "sourceWorkshopId": 2809873716,
+            "name": "Suppression Effect",
+            "fields": []
+        },
+        {
+            "sourceDirectory": "2972784847",
+            "sourceWorkshopId": 2972784847,
+            "name": "[<color=aqua>LQS</color>] Soarin's Bodycam",
+            "fields": [
+                {
+                    "id": "bodyCamX",
+                    "serializedValue": "0"
+                },
+                {
+                    "id": "bodyCamY",
+                    "serializedValue": "0"
+                },
+                {
+                    "id": "bodyCamHeight",
+                    "serializedValue": "0"
+                },
+                {
+                    "id": "walkBobIntensity",
+                    "serializedValue": "0.15"
+                },
+                {
+                    "id": "runBobIntensity",
+                    "serializedValue": "0.3"
+                },
+                {
+                    "id": "weaponRollClamp",
+                    "serializedValue": "4.5"
+                },
+                {
+                    "id": "cameraRollClamp",
+                    "serializedValue": "6.5"
+                },
+                {
+                    "id": "aimingDeadzoneClamp",
+                    "serializedValue": "15.5"
+                },
+                {
+                    "id": "walkTiltAmount",
+                    "serializedValue": "1.25"
+                },
+                {
+                    "id": "borderFieldOfView",
+                    "serializedValue": "70"
+                },
+                {
+                    "id": "toggleBodyCamKey",
+                    "serializedValue": "K"
+                },
+                {
+                    "id": "lockCamToCenter",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "enableBodyCamOverlay",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "disableTilting",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "disableGunTuck",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "zoomWithAnyGun",
+                    "serializedValue": "False"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "2763450761",
+            "sourceWorkshopId": 2763450761,
+            "name": "Day & Night Cycle System",
+            "fields": [
+                {
+                    "id": "SecondPerDay",
+                    "serializedValue": "3000"
+                },
+                {
+                    "id": "fogStartDistance",
+                    "serializedValue": "1"
+                },
+                {
+                    "id": "fogEndDistance",
+                    "serializedValue": "1500"
+                },
+                {
+                    "id": "fogDensity",
+                    "serializedValue": "0.004"
+                },
+                {
+                    "id": "ambientIntensity",
+                    "serializedValue": "1"
+                },
+                {
+                    "id": "reflectionIntensity",
+                    "serializedValue": "0.3"
+                },
+                {
+                    "id": "MorningTime",
+                    "serializedValue": "9"
+                },
+                {
+                    "id": "NoonTime",
+                    "serializedValue": "13"
+                },
+                {
+                    "id": "DuskTime",
+                    "serializedValue": "18"
+                },
+                {
+                    "id": "NightTime",
+                    "serializedValue": "22"
+                },
+                {
+                    "id": "CurrentHour",
+                    "serializedValue": "3"
+                },
+                {
+                    "id": "CurrentMinute",
+                    "serializedValue": "0"
+                },
+                {
+                    "id": "CurrentSecond",
+                    "serializedValue": "0"
+                },
+                {
+                    "id": "haloStrength",
+                    "serializedValue": "1"
+                },
+                {
+                    "id": "reflectionBounces",
+                    "serializedValue": "1"
+                },
+                {
+                    "id": "skyRotation",
+                    "serializedValue": "0"
+                },
+                {
+                    "id": "bIsCycle",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "bFog",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "bSun",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "bMoon",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "bControledReflectionProber",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "bControlAllLights",
+                    "serializedValue": "True"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "3030185403",
+            "sourceWorkshopId": 3030185403,
+            "name": "ImprovedBloodV2",
+            "fields": [
+                {
+                    "id": "bloodParticleCooldown",
+                    "serializedValue": "0.04"
+                },
+                {
+                    "id": "extraBloodAmount",
+                    "serializedValue": "1"
+                },
+                {
+                    "id": "cbMetallic",
+                    "serializedValue": "0.1"
+                },
+                {
+                    "id": "cbGloss",
+                    "serializedValue": "0.2"
+                },
+                {
+                    "id": "cbQuality",
+                    "serializedValue": "0"
+                },
+                {
+                    "id": "cbTransparency",
+                    "serializedValue": "1"
+                },
+                {
+                    "id": "cbDetail",
+                    "serializedValue": "5"
+                },
+                {
+                    "id": "cbSize",
+                    "serializedValue": "1"
+                },
+                {
+                    "id": "cbBrightness",
+                    "serializedValue": "0.5"
+                },
+                {
+                    "id": "bloodScale",
+                    "serializedValue": "1"
+                },
+                {
+                    "id": "bloodParticleChance",
+                    "serializedValue": "100"
+                },
+                {
+                    "id": "SFXVolume",
+                    "serializedValue": "100"
+                },
+                {
+                    "id": "enableDecals",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "enableVFX",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "enableSFX",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "enableHeadshot",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "enableHeadshotSFX",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "ultraBlood",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "enableExtraBlood",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "team",
+                    "serializedValue": "2"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "3103402699",
+            "sourceWorkshopId": 3103402699,
+            "name": "LeMieux's Gore 2 Mutator",
+            "fields": [
+                {
+                    "id": "maximumBodies",
+                    "serializedValue": "250"
+                },
+                {
+                    "id": "decalDespawnTime",
+                    "serializedValue": "60"
+                },
+                {
+                    "id": "minorDismembermentThreshold",
+                    "serializedValue": "110"
+                },
+                {
+                    "id": "majorDismembermentThreshold",
+                    "serializedValue": "250"
+                },
+                {
+                    "id": "eviscerateThreshold",
+                    "serializedValue": "650"
+                },
+                {
+                    "id": "projectileMutilation",
+                    "serializedValue": "100"
+                },
+                {
+                    "id": "ragMassMultiplier",
+                    "serializedValue": "10"
+                },
+                {
+                    "id": "ragSpringMultiplier",
+                    "serializedValue": "1000"
+                },
+                {
+                    "id": "ragDampMultiplier",
+                    "serializedValue": "3"
+                },
+                {
+                    "id": "bakeTimer",
+                    "serializedValue": "3"
+                },
+                {
+                    "id": "useSounds",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "overrideBloodSplats",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "DamageZoneBurn",
+                    "serializedValue": "True"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "3015782864",
+            "sourceWorkshopId": 3015782864,
+            "name": "LeMieux's Suppression Mutator",
+            "fields": [
+                {
+                    "id": "suppressDist",
+                    "serializedValue": "2.5"
+                },
+                {
+                    "id": "balanceDmgSuppress",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "useSounds",
+                    "serializedValue": "True"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "3349167051",
+            "sourceWorkshopId": 3349167051,
+            "name": "Hit Effect Disabler",
+            "fields": []
+        },
+        {
+            "sourceDirectory": "3385046538",
+            "sourceWorkshopId": 3385046538,
+            "name": "Not a Martyr",
+            "fields": [
+                {
+                    "id": "retreat_health_percentage",
+                    "serializedValue": "95"
+                },
+                {
+                    "id": "retreat_distance",
+                    "serializedValue": "14"
+                },
+                {
+                    "id": "flee_speed_multiplier",
+                    "serializedValue": "1"
+                },
+                {
+                    "id": "charge_speed_multiplier",
+                    "serializedValue": "1"
+                },
+                {
+                    "id": "max_charge_distance",
+                    "serializedValue": "50"
+                },
+                {
+                    "id": "team_enable",
+                    "serializedValue": "2"
+                }
+            ]
+        }
+    ],
+    "playerHasAllWeapons": true
+}
